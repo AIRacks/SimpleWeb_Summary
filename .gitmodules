@@ -1,0 +1,9 @@
+[submodule "iCSS"]
+	path = iCSS
+	url = https://github.com/chokcoco/iCSS
+[submodule "pdf2htmlEX"]
+path=pdf2htmlEX
+url = https://github.com/coolwanglu/pdf2htmlEX
+[submodule "PPTX2HTML"]
+path=PPTX2HTML
+url = https://github.com/g21589/PPTX2HTML
