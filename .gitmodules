@@ -1,6 +1,9 @@
+[submodule "anime"]
+	path = anime
+	url = https://github.com/juliangarnier/anime
 [submodule "iCSS"]
-	path = iCSS
-	url = https://github.com/chokcoco/iCSS
+path=iCSS
+url = https://github.com/chokcoco/iCSS
 [submodule "pdf2htmlEX"]
 path=pdf2htmlEX
 url = https://github.com/coolwanglu/pdf2htmlEX
