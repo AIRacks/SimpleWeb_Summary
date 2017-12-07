@@ -1,6 +1,9 @@
 [submodule "anime"]
-	path = anime
-	url = https://github.com/juliangarnier/anime
+path=anime
+url = https://github.com/juliangarnier/anime
+[submodule "GreenSock-JS"]
+	path = GreenSock-JS
+	url = https://github.com/greensock/GreenSock-JS/
 [submodule "iCSS"]
 path=iCSS
 url = https://github.com/chokcoco/iCSS
